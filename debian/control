@@ -1,7 +1,7 @@
 Source: beef-xss
 Section: web
 Priority: optional
-Maintainer: Raphaël Hertzog <hertzog@debian.org>
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
 Build-Depends: bundler,
                debhelper (>= 9),
                libsqlite3-dev,

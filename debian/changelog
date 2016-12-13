@@ -1,3 +1,10 @@
+beef-xss (0.4.7.0-0parrot2) testing; urgency=medium
+
+  * Disable DNS modules to prevent crashes at startup
+  * Enable additional useful modules
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@localhost.localdomain>  Tue, 13 Dec 2016 20:55:20 +0100
+
 beef-xss (0.4.7.0-0parrot1) testing; urgency=medium
 
   * Rebuild on new build environment
