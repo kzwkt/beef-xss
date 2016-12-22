@@ -1,3 +1,9 @@
+beef-xss (0.4.7.0-0parrot3) testing; urgency=medium
+
+  * Increment version and rebuild to fix malformed config.yaml
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 22 Dec 2016 15:39:06 +0100
+
 beef-xss (0.4.7.0-0parrot2) testing; urgency=medium
 
   * Disable DNS modules to prevent crashes at startup
